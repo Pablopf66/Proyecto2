@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Viajes</string>
+    <string-array name="transporte">
+    <item>Autobus - </item>
+    <item>Avion - </item>
+    <item>Tren - </item>
+    <item>Propio - </item>
+    </string-array>
+    <string-array name="transportePrecio">
+        <item>100</item>
+        <item>800</item>
+        <item>150</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="hotel">
+        <item>Ibis - </item>
+        <item>Hilton - </item>
+        <item>Malaga Palacio - </item>
+    </string-array>
+    <string-array name="hotelPrecio">
+        <item>500</item>
+        <item>300</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="comida">
+        <item>Completa - </item>
+        <item>Media - </item>
+        <item>Desayuno - </item>
+    </string-array>
+    <string-array name="comidaPrecio">
+        <item>200</item>
+        <item>100</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="ocio">
+        <item>Cultural - </item>
+        <item>Fiestas - </item>
+        <item>Libro - </item>
+    </string-array>
+    <string-array name="ocioPrecio">
+        <item>200</item>
+        <item>100</item>
+        <item>50</item>
+    </string-array>
+    <string name="persona">Personas</string>
+    <string name="precio">Precio</string>
+    <string-array name="nombres">
+        <item>transporte</item>
+        <item>transportePrecio</item>
+        <item>hotel</item>
+        <item>hotelPrecio</item>
+        <item>comida</item>
+        <item>comidaPrecio</item>
+        <item>ocio</item>
+        <item>ocioPrecio</item>
+    </string-array>
+</resources>
